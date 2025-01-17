@@ -1,5 +1,4 @@
 ## Hi everyone! 👋
-##
 
 Hey!
 My name is Max Conner Dietrich and I'm 15 years old.
