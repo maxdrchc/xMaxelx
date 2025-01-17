@@ -6,5 +6,5 @@ I come from Germany, Thuringia. I'm in the 9th grade at a secondary school. Afte
 
 ##
 - 🔭 I’m currently working on Minecraft Plugins and school taks.
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I code since i am 10 years old.
